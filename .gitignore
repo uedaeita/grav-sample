@@ -1,0 +1,15 @@
+/assets/
+!/assets/.gitkeep
+/backup/
+!/backup/.gitkeep
+/cache/
+!/cache/.gitkeep
+/images/
+!/images/.gitkeep
+/logs/
+!/logs/.gitkeep
+/tmp/
+!/tmp/.gitkeep
+/user/accounts/
+!/user/accounts/.gitkeep
+/vendor/
